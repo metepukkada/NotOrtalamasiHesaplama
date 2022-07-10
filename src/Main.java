@@ -30,6 +30,5 @@ public class Main {
         String dönemsonu = ( sonuc ? "Geçtiniz. " : "Kaldınız. ");
         System.out.print("Ortalamanız: "+ ortalama +" " + dönemsonu);
 
-
     }
 }
