@@ -1,0 +1,1 @@
+# Mantıksal operatörler kullanılarak not ortalaması hesaplayan ve hesaplanan not ortalamasına göre dönem sonu geçip geçmediğimizi belirten bir uygulama hazırlandı.
